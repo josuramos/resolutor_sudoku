@@ -23,7 +23,11 @@ El resolutor utiliza un **algoritmo de backtracking**, garantizando que la soluc
 ## Cómo usar
 1. Ejecuta el archivo principal con Python 3:
 ```bash
-python main.py
+python sudoku.py
+```
+2. Introduce los números del Sudoku (del 1 al 9).  
+3. Pulsa el botón **Resolver** para obtener la solución.  
+4. Usa **Limpiar** si quieres introducir un nuevo Sudoku.
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
