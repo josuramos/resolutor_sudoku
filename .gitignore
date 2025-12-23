@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos generados por PyInstaller
+build/
+dist/
+
+# Archivos del sistema
+.DS_Store
